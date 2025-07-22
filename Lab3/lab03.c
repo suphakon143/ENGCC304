@@ -17,10 +17,12 @@ int main() {
         printf( "Enter value[%d] : ", i ) ;
         scanf( "%d", &arr[i] ) ;
     }
+   
     printf( " Index:  " ) ;
     for ( int i = 0 ; i < n ; i++ ) {
         printf( " %2d ", i ) ;
     }
+   
     printf( "\n" ) ;
     printf( "Array: " ) ;
     for ( int i = 0; i < n; i++ ) {
