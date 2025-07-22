@@ -32,6 +32,7 @@ int main() {
         }
     }
     printf("\n") ;
+} // end function
 =======
 #include <stdio.h>
 #include <math.h>
